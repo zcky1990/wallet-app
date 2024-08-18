@@ -1,6 +1,6 @@
 # README
 
-Welcome to the Wallet System project! This is a Ruby on Rails application designed to manage wallets, transactions, and users, along with a comprehensive set of features for handling financial transactions and relationships.
+Welcome to the Wallet System project! This is a Ruby on Rails application designed to manage wallets, transactions, and users.
 
 # Installation
   * Clone the repository:
